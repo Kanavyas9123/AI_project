@@ -1,4 +1,0 @@
-Disease : Malaria
-Symtoms : Fever, headache, muscle pain, fatigue, nausea, vomiting 
-Cause : Plasmodium parasites
-Treatment : Antimalarial medications, rest, fluids
