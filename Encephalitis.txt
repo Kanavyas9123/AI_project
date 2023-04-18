@@ -1,4 +1,0 @@
-Disease : Encephalitis
-Symtoms : Fever, headache, confusion,seizures, weakness or paralysis,sensory disturbances 
-Cause : Viruses, bacteria, fungi
-Treatment : Antiviral medications, rest, fluids
