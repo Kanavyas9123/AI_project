@@ -1,0 +1,4 @@
+Disease : Measles
+Symtoms  : High fever, cough, runny nose, red, watery eyes, rash 
+Cause : Measles virus 
+Treatment : Rest, fluids, acetaminophen
