@@ -1,4 +1,0 @@
-Disease : Tuberculosis
-Symtoms : Cough that lasts for weeks, chest pain, fatigue, weight loss, night sweats
-Cause : Mycobacterium tuberculosis
-Treatment : Antibiotics, isolation, rest, good nutrition
